@@ -1,0 +1,17 @@
+
+{
+    "name": "jwt-oss/sf-jwt-php-unit-plugin",
+    "type": "symfony1-plugin",
+    "description": "Supercharged PHPUnit integration with Symfony projects",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "JWT",
+            "email": "peter.bailey@jwt.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "~3.7",
+        "composer/installers": "~1.0"
+    }
+}
